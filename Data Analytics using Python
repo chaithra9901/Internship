@@ -3,7 +3,7 @@ Data Science Internship At Dlithe
 Hello, I am Chaithra A C have taken up an internship in Data Science Course at Dlithe. The assignment on Linear Regression topic is demonstrated here and also 
 I have shared the blog link where practical learnings are included.
 
-Linear Regression
+## Linear Regression Code
 
 !pip install numpy
 !pip install pandas
